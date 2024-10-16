@@ -26,3 +26,6 @@ paste in term: key(shift-insert)
 
 semper: ";"
 bronk: "}"
+quill: "'"
+squiggle: "{"
+shine: key(shift)
