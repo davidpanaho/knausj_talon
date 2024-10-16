@@ -343,7 +343,7 @@ def mouse_scroll(amount):
                 scroll_amount += amount
             else:
                 scroll_amount = amount
-        actions.mouse_scroll(y=int(amount))
+        actions.mouse_scroll(y=int(amount), by_lines=True)
 
     return scroll
 

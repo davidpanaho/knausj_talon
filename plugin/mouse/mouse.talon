@@ -98,7 +98,7 @@ wheel tiny up: user.mouse_scroll_up(0.2)
 wheel tiny up here:
     user.mouse_move_center_active_window()
     user.mouse_scroll_up(0.2)
-wheel upper: user.mouse_scroll_up_continuous()
+# wheel upper: user.mouse_scroll_up_continuous()
 wheel upper here:
     user.mouse_move_center_active_window()
     user.mouse_scroll_up_continuous()
